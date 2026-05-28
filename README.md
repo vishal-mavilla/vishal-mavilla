@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi, I'm Vishal 👋
+
+🎓 B.Tech CSE (Cyber Security)
+💻 Python & Cybersecurity Enthusiast
+📚 Currently learning Python and SQL
+🚀 Interested in AI, Security, Data Engineering
+
+
+## Skills
+- Python,SQL
+- Git & GitHub
+- Networking Basics
+- Cyber Security Fundamentals
+- Problem Solving
+
+- 
 ## Certifications
 
 - IBM Artificial Intelligence Fundamentals Badge 
