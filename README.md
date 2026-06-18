@@ -19,6 +19,8 @@
 - IBM Artificial Intelligence Fundamentals Badge 
   [View Credential](https://www.credly.com/badges/87fc16ab-96d7-4bf7-beb5-545feeea6206)
 
+- IBM Cybersecurity Fundamentals Badge [View Credential](https://www.credly.com/go/W7KbYsK4)
+
 <!--
 **vishal-mavilla/vishal-mavilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
