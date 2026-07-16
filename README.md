@@ -17,7 +17,7 @@
 - Data Analysis (Pandas)
 - Database Management (MySQL)
 - Problem Solving
-- 
+  
 ## Certifications
 
 - IBM Artificial Intelligence Fundamentals Badge 
