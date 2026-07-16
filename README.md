@@ -1,18 +1,22 @@
 # Hi, I'm Vishal 👋
 
 🎓 B.Tech CSE (Cyber Security)
-💻 Python & Cybersecurity Enthusiast
-📚 Currently learning Python and SQL
-🚀 Interested in AI, Security, Data Engineering
+💻 Aspiring Data Engineer
+📚 Currently learning Python, SQL, Azure & ETL
+🚀 Interested in Data Engineering, Cloud Computing & AI
 
 
 ## Skills
-- Python,SQL
-- Git & GitHub
-- Networking Basics
-- Cyber Security Fundamentals
-- Problem Solving
 
+- Python
+- SQL
+- Git & GitHub
+- Power BI
+- Excel
+- ETL Basics
+- Data Analysis (Pandas)
+- Database Management (MySQL)
+- Problem Solving
 - 
 ## Certifications
 
