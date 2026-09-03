@@ -27,6 +27,8 @@
 
 - Data Engineering Program (630 Hours) – Sri Sathya Sai Skill Development Center [View Certificate](https://github.com/vishal-mavilla/vishal-mavilla/blob/main/Data%20Engineering%20Certificate.pdf)
 
+- - Power BI Certification — [View Certificate](https://github.com/vishal-mavilla/vishal-mavilla/blob/main/PowerBI%20Certificate.pdf)
+
 <!--
 **vishal-mavilla/vishal-mavilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
